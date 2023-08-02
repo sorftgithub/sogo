@@ -1,2 +1,0 @@
-# sogo
-my name
